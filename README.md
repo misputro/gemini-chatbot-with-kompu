@@ -1,18 +1,19 @@
-# Chatbot Application using Gemini API
+# Chatbot Application using Gemini API-Kompu
 
 original from https://github.com/Gayathri-Selvaganapathi/chatbot_repo
 
 ## Overview
 
 ## Installation
-1 conda prompt --> cd D:\Python\AI\chatbot_kompu
-2 D:
-3 conda create -p venv python=3.13.5
-4 conda activate D:\Python\AI\chatbot_kompu\venv
-5 pip install -r requirements.txt
-6 streamlit run app.py
+1 conda prompt --> cd D:\Python\AI\chatbot_kompu <br>
+2 D: <br>
+3 conda create -p venv python=3.13.5 <br>
+4 conda activate D:\Python\AI\chatbot_kompu\venv <br>
+5 pip install -r requirements.txt <br>
+6 streamlit run app.py <br>
 
-3. Environment Variables
+## Environment Variables
+```
 GOOGLE_API_KEY=your_google_api_key_here
 ```
 
