@@ -14,7 +14,7 @@
 
 ## Environment Variables
 ```
-GOOGLE_API_KEY=your_google_api_key_here
+GOOGLE_API_KEY=GOOGLE_API_KEY
 ```
 
 ## Start Steamlit application 
