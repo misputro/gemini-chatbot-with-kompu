@@ -1,6 +1,6 @@
 # Chatbot Application using Gemini API-Kompu
 
-original from https://github.com/Gayathri-Selvaganapathi/chatbot_repo
+
 
 ## Overview
 
